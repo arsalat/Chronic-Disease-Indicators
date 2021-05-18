@@ -12,8 +12,8 @@ We wil be answering the following questions:
 
 1. We are going to try to find the correlation between the chronic disease using indicators such as alcohol use, smoking, high school completion, healthy eating habits, excercise, weight and mental health. For example, is there a correlation between tobacco use an lung cancer?                  
                   
-2. We will try to dig into the data to find some race-related insights. Are people belonging to a certain race more hesitant to go for pap-smear (for cervical cancer) and a mammogram (for breast cancer_
+2. We will try to dig into the data to find some race-related insights. Are people belonging to a certain race more hesitant to go for pap-smear (for cervical cancer) and a mammogram (for breast cancer)
 
-3. We will find out which chronic diseases are more prevalent for each of the genders Also, how do lifestyle and habits vary between the gender such as alcohol, tobacco use and excercise. and if it effect the disease prevalenc and mortality rate. 
+3. We will find out which chronic diseases are more prevalent for each of the genders. Also, how do lifestyle and habits vary between the gender such as alcohol, tobacco use and excercise and if it effects the disease prevalence and mortality rate. 
 
 Let's get started!
